@@ -1,1 +1,2 @@
 # gamestudiotest
+notes to player 
